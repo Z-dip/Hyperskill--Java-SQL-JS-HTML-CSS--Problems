@@ -1,4 +1,4 @@
-[![Header](https://robodk.com/blog/wp-content/uploads/2018/05/Programming-Language-PNG-Download-Image.png "Header")](https://some-url.dev/)
+[![Header](https://robodk.com/blog/wp-content/uploads/2018/05/Programming-Language-PNG-Download-Image.png "Header")]
 # Hyperskill Java/SQL/JavaScript/HTML/CSS *Problems*
 # Java  :
 
