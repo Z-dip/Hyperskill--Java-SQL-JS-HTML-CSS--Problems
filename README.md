@@ -5,46 +5,46 @@
    - https://github.com/Z-dip/Hyperskill--Java-SQL-JS-HTML-CSS--Problems/tree/main/Java/Basics
 
  **Collections :** 
-     - https://github.com/Z-dip/Hyperskill--Java-SQL-JS-HTML-CSS--Problems/tree/main/Java/Collections
+   - https://github.com/Z-dip/Hyperskill--Java-SQL-JS-HTML-CSS--Problems/tree/main/Java/Collections
       
  **Design Patterns :**
-     - https://github.com/Z-dip/Hyperskill--Java-SQL-JS-HTML-CSS--Problems/tree/main/Java/Design%20Patterns
+   - https://github.com/Z-dip/Hyperskill--Java-SQL-JS-HTML-CSS--Problems/tree/main/Java/Design%20Patterns
       
  **Functional Programming :**
-     - https://github.com/Z-dip/Hyperskill--Java-SQL-JS-HTML-CSS--Problems/tree/main/Java/Functional%20Programming
+   - https://github.com/Z-dip/Hyperskill--Java-SQL-JS-HTML-CSS--Problems/tree/main/Java/Functional%20Programming
       
  **Generics :**
-     - https://github.com/Z-dip/Hyperskill--Java-SQL-JS-HTML-CSS--Problems/tree/main/Java/Generics
+   - https://github.com/Z-dip/Hyperskill--Java-SQL-JS-HTML-CSS--Problems/tree/main/Java/Generics
       
  **IO :**
-     - https://github.com/Z-dip/Hyperskill--Java-SQL-JS-HTML-CSS--Problems/tree/main/Java/IO
+   - https://github.com/Z-dip/Hyperskill--Java-SQL-JS-HTML-CSS--Problems/tree/main/Java/IO
       
  **JDBC :**
-     - https://github.com/Z-dip/Hyperskill--Java-SQL-JS-HTML-CSS--Problems/tree/main/Java/JDBC
+   - https://github.com/Z-dip/Hyperskill--Java-SQL-JS-HTML-CSS--Problems/tree/main/Java/JDBC
       
  **Junit & Mockito :**
-     - https://github.com/Z-dip/Hyperskill--Java-SQL-JS-HTML-CSS--Problems/tree/main/Java/Junit%20%26%20Mockito
+   - https://github.com/Z-dip/Hyperskill--Java-SQL-JS-HTML-CSS--Problems/tree/main/Java/Junit%20%26%20Mockito
       
  **Logging :**
-     - https://github.com/Z-dip/Hyperskill--Java-SQL-JS-HTML-CSS--Problems/tree/main/Java/Logging
+   - https://github.com/Z-dip/Hyperskill--Java-SQL-JS-HTML-CSS--Problems/tree/main/Java/Logging
       
  **OOP :**
-     - https://github.com/Z-dip/Hyperskill--Java-SQL-JS-HTML-CSS--Problems/tree/main/Java/OOP
+   - https://github.com/Z-dip/Hyperskill--Java-SQL-JS-HTML-CSS--Problems/tree/main/Java/OOP
       
  **RegeX :**
-     - https://github.com/Z-dip/Hyperskill--Java-SQL-JS-HTML-CSS--Problems/tree/main/Java/RegeX
+   - https://github.com/Z-dip/Hyperskill--Java-SQL-JS-HTML-CSS--Problems/tree/main/Java/RegeX
       
  **Scala :**
-     - https://github.com/Z-dip/Hyperskill--Java-SQL-JS-HTML-CSS--Problems/tree/main/Java/Scala
+   - https://github.com/Z-dip/Hyperskill--Java-SQL-JS-HTML-CSS--Problems/tree/main/Java/Scala
       
  **Sockets :**
-     - https://github.com/Z-dip/Hyperskill--Java-SQL-JS-HTML-CSS--Problems/tree/main/Java/Sockets
+   - https://github.com/Z-dip/Hyperskill--Java-SQL-JS-HTML-CSS--Problems/tree/main/Java/Sockets
       
  **Spring :**
-     - https://github.com/Z-dip/Hyperskill--Java-SQL-JS-HTML-CSS--Problems/tree/main/Java/Spring
+   - https://github.com/Z-dip/Hyperskill--Java-SQL-JS-HTML-CSS--Problems/tree/main/Java/Spring
       
  **Swing :**
-     - https://github.com/Z-dip/Hyperskill--Java-SQL-JS-HTML-CSS--Problems/tree/main/Java/Swing
+   - https://github.com/Z-dip/Hyperskill--Java-SQL-JS-HTML-CSS--Problems/tree/main/Java/Swing
      
      
 ![Header](https://lh5.googleusercontent.com/proxy/Rmxs41q9avCdTEFrUoghHYvxAt-ny3WtVCrlLaowSo5AFDs7BUfmG-9I36FFJRj7iq-ZpODyyoG_CkCuOCEvp4ey6WHojtxiCwkAz-ocU3ELszni4uSB4Q=s0-d "Header")    
@@ -65,13 +65,13 @@
 ![Header](https://img.icons8.com/plasticine/2x/html.png "Header")
       
  **Javascript :**
-     - https://github.com/Z-dip/Hyperskill--Java-SQL-JS-HTML-CSS--Problems/tree/main/Frontend/JavaScript
+   - https://github.com/Z-dip/Hyperskill--Java-SQL-JS-HTML-CSS--Problems/tree/main/Frontend/JavaScript
   
  **HTML :**
-    -  https://github.com/Z-dip/Hyperskill--Java-SQL-JS-HTML-CSS--Problems/tree/main/Frontend/HTML
+  -  https://github.com/Z-dip/Hyperskill--Java-SQL-JS-HTML-CSS--Problems/tree/main/Frontend/HTML
       
  **CSS :**
-    -  https://github.com/Z-dip/Hyperskill--Java-SQL-JS-HTML-CSS--Problems/tree/main/Frontend/CSS
+  -  https://github.com/Z-dip/Hyperskill--Java-SQL-JS-HTML-CSS--Problems/tree/main/Frontend/CSS
     
     
 ![Header](https://lh5.googleusercontent.com/proxy/Rmxs41q9avCdTEFrUoghHYvxAt-ny3WtVCrlLaowSo5AFDs7BUfmG-9I36FFJRj7iq-ZpODyyoG_CkCuOCEvp4ey6WHojtxiCwkAz-ocU3ELszni4uSB4Q=s0-d "Header")
