@@ -1,4 +1,52 @@
 # Hyperskill Java/SQL/JavaScript/HTML/CSS *Problems*
+
 Problems solved in Hyperskill (JetBrains Academy)
 
+# Java  :
 
+
+  Basics :
+      https://github.com/Z-dip/Hyperskill--Java-SQL-JS-HTML-CSS--Problems/tree/main/Java/Basics
+
+  Collections :
+      https://github.com/Z-dip/Hyperskill--Java-SQL-JS-HTML-CSS--Problems/tree/main/Java/Collections
+      
+  Design Patterns :
+      https://github.com/Z-dip/Hyperskill--Java-SQL-JS-HTML-CSS--Problems/tree/main/Java/Design%20Patterns
+      
+  Functional Programming :
+      https://github.com/Z-dip/Hyperskill--Java-SQL-JS-HTML-CSS--Problems/tree/main/Java/Functional%20Programming
+      
+  Generics :
+      https://github.com/Z-dip/Hyperskill--Java-SQL-JS-HTML-CSS--Problems/tree/main/Java/Generics
+      
+  IO :
+      https://github.com/Z-dip/Hyperskill--Java-SQL-JS-HTML-CSS--Problems/tree/main/Java/IO
+      
+  JDBC :
+      https://github.com/Z-dip/Hyperskill--Java-SQL-JS-HTML-CSS--Problems/tree/main/Java/JDBC
+      
+  Junit & Mockito :
+      https://github.com/Z-dip/Hyperskill--Java-SQL-JS-HTML-CSS--Problems/tree/main/Java/Junit%20%26%20Mockito
+      
+  Logging :
+      https://github.com/Z-dip/Hyperskill--Java-SQL-JS-HTML-CSS--Problems/tree/main/Java/Logging
+      
+  OOP :
+      https://github.com/Z-dip/Hyperskill--Java-SQL-JS-HTML-CSS--Problems/tree/main/Java/OOP
+      
+  RegeX :
+      https://github.com/Z-dip/Hyperskill--Java-SQL-JS-HTML-CSS--Problems/tree/main/Java/RegeX
+      
+  Scala :
+      https://github.com/Z-dip/Hyperskill--Java-SQL-JS-HTML-CSS--Problems/tree/main/Java/Scala
+      
+  Sockets :
+      https://github.com/Z-dip/Hyperskill--Java-SQL-JS-HTML-CSS--Problems/tree/main/Java/Sockets
+      
+  Spring :
+      https://github.com/Z-dip/Hyperskill--Java-SQL-JS-HTML-CSS--Problems/tree/main/Java/Spring
+      
+  Swing :
+      https://github.com/Z-dip/Hyperskill--Java-SQL-JS-HTML-CSS--Problems/tree/main/Java/Swing
+      ________________________________________________________________________________________________________________________________________    
