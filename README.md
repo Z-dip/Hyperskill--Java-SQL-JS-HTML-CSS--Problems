@@ -50,3 +50,36 @@ Problems solved in Hyperskill (JetBrains Academy)
   Swing :
       https://github.com/Z-dip/Hyperskill--Java-SQL-JS-HTML-CSS--Problems/tree/main/Java/Swing
       ________________________________________________________________________________________________________________________________________    
+      
+# Algorithms :
+
+  https://github.com/Z-dip/Hyperskill--Java-SQL-JS-HTML-CSS--Problems/tree/main/Algorithms
+      ________________________________________________________________________________________________________________________________________ 
+      
+# Databases & SQL :
+
+  https://github.com/Z-dip/Hyperskill--Java-SQL-JS-HTML-CSS--Problems/tree/main/Databases%20%26%20SQL%20(Mostly%20MySQL)
+      ________________________________________________________________________________________________________________________________________
+      
+# Frontend :
+
+  Javascript :
+      https://github.com/Z-dip/Hyperskill--Java-SQL-JS-HTML-CSS--Problems/tree/main/Frontend/JavaScript
+  
+  HTML :
+      https://github.com/Z-dip/Hyperskill--Java-SQL-JS-HTML-CSS--Problems/tree/main/Frontend/HTML
+      
+  CSS :
+      https://github.com/Z-dip/Hyperskill--Java-SQL-JS-HTML-CSS--Problems/tree/main/Frontend/CSS
+      ________________________________________________________________________________________________________________________________________
+      
+# Math :
+
+https://github.com/Z-dip/Hyperskill--Java-SQL-JS-HTML-CSS--Problems/tree/main/Math
+
+*############################################################################################################################################*
+    
+      
+  
+  
+
