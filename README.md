@@ -1,7 +1,5 @@
+[![Header](https://robodk.com/blog/wp-content/uploads/2018/05/Programming-Language-PNG-Download-Image.png "Header")](https://some-url.dev/)
 # Hyperskill Java/SQL/JavaScript/HTML/CSS *Problems*
-
-Problems solved in Hyperskill (JetBrains Academy)
-
 # Java  :
 
 
