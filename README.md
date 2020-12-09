@@ -1,8 +1,8 @@
 ![Header](https://robodk.com/blog/wp-content/uploads/2018/05/Programming-Language-PNG-Download-Image.png "Header")
 ![Header](https://freepngimg.com/download/java/1-2-java-free-png-image.png "Header")
 
- - Basics :
-     - https://github.com/Z-dip/Hyperskill--Java-SQL-JS-HTML-CSS--Problems/tree/main/Java/Basics
+  **Basics :** 
+   - https://github.com/Z-dip/Hyperskill--Java-SQL-JS-HTML-CSS--Problems/tree/main/Java/Basics
 
  - Collections :
      - https://github.com/Z-dip/Hyperskill--Java-SQL-JS-HTML-CSS--Problems/tree/main/Java/Collections
@@ -52,7 +52,6 @@
 # Algorithms :
 
 -  https://github.com/Z-dip/Hyperskill--Java-SQL-JS-HTML-CSS--Problems/tree/main/Algorithms
-
 
 ![Header](https://lh5.googleusercontent.com/proxy/Rmxs41q9avCdTEFrUoghHYvxAt-ny3WtVCrlLaowSo5AFDs7BUfmG-9I36FFJRj7iq-ZpODyyoG_CkCuOCEvp4ey6WHojtxiCwkAz-ocU3ELszni4uSB4Q=s0-d "Header")
       
