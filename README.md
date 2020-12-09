@@ -3,76 +3,76 @@
 # Java  :
 
 
-  Basics :
-      https://github.com/Z-dip/Hyperskill--Java-SQL-JS-HTML-CSS--Problems/tree/main/Java/Basics
+ - Basics :
+     - https://github.com/Z-dip/Hyperskill--Java-SQL-JS-HTML-CSS--Problems/tree/main/Java/Basics
 
-  Collections :
-      https://github.com/Z-dip/Hyperskill--Java-SQL-JS-HTML-CSS--Problems/tree/main/Java/Collections
+ - Collections :
+     - https://github.com/Z-dip/Hyperskill--Java-SQL-JS-HTML-CSS--Problems/tree/main/Java/Collections
       
-  Design Patterns :
-      https://github.com/Z-dip/Hyperskill--Java-SQL-JS-HTML-CSS--Problems/tree/main/Java/Design%20Patterns
+ - Design Patterns :
+     - https://github.com/Z-dip/Hyperskill--Java-SQL-JS-HTML-CSS--Problems/tree/main/Java/Design%20Patterns
       
-  Functional Programming :
-      https://github.com/Z-dip/Hyperskill--Java-SQL-JS-HTML-CSS--Problems/tree/main/Java/Functional%20Programming
+ - Functional Programming :
+     - https://github.com/Z-dip/Hyperskill--Java-SQL-JS-HTML-CSS--Problems/tree/main/Java/Functional%20Programming
       
-  Generics :
-      https://github.com/Z-dip/Hyperskill--Java-SQL-JS-HTML-CSS--Problems/tree/main/Java/Generics
+ - Generics :
+     - https://github.com/Z-dip/Hyperskill--Java-SQL-JS-HTML-CSS--Problems/tree/main/Java/Generics
       
-  IO :
-      https://github.com/Z-dip/Hyperskill--Java-SQL-JS-HTML-CSS--Problems/tree/main/Java/IO
+ - IO :
+     - https://github.com/Z-dip/Hyperskill--Java-SQL-JS-HTML-CSS--Problems/tree/main/Java/IO
       
-  JDBC :
-      https://github.com/Z-dip/Hyperskill--Java-SQL-JS-HTML-CSS--Problems/tree/main/Java/JDBC
+ - JDBC :
+     - https://github.com/Z-dip/Hyperskill--Java-SQL-JS-HTML-CSS--Problems/tree/main/Java/JDBC
       
-  Junit & Mockito :
-      https://github.com/Z-dip/Hyperskill--Java-SQL-JS-HTML-CSS--Problems/tree/main/Java/Junit%20%26%20Mockito
+ - Junit & Mockito :
+     - https://github.com/Z-dip/Hyperskill--Java-SQL-JS-HTML-CSS--Problems/tree/main/Java/Junit%20%26%20Mockito
       
-  Logging :
-      https://github.com/Z-dip/Hyperskill--Java-SQL-JS-HTML-CSS--Problems/tree/main/Java/Logging
+ - Logging :
+     - https://github.com/Z-dip/Hyperskill--Java-SQL-JS-HTML-CSS--Problems/tree/main/Java/Logging
       
-  OOP :
-      https://github.com/Z-dip/Hyperskill--Java-SQL-JS-HTML-CSS--Problems/tree/main/Java/OOP
+ - OOP :
+     - https://github.com/Z-dip/Hyperskill--Java-SQL-JS-HTML-CSS--Problems/tree/main/Java/OOP
       
-  RegeX :
-      https://github.com/Z-dip/Hyperskill--Java-SQL-JS-HTML-CSS--Problems/tree/main/Java/RegeX
+ - RegeX :
+     - https://github.com/Z-dip/Hyperskill--Java-SQL-JS-HTML-CSS--Problems/tree/main/Java/RegeX
       
-  Scala :
-      https://github.com/Z-dip/Hyperskill--Java-SQL-JS-HTML-CSS--Problems/tree/main/Java/Scala
+ - Scala :
+     - https://github.com/Z-dip/Hyperskill--Java-SQL-JS-HTML-CSS--Problems/tree/main/Java/Scala
       
-  Sockets :
-      https://github.com/Z-dip/Hyperskill--Java-SQL-JS-HTML-CSS--Problems/tree/main/Java/Sockets
+ - Sockets :
+     - https://github.com/Z-dip/Hyperskill--Java-SQL-JS-HTML-CSS--Problems/tree/main/Java/Sockets
       
-  Spring :
-      https://github.com/Z-dip/Hyperskill--Java-SQL-JS-HTML-CSS--Problems/tree/main/Java/Spring
+ - Spring :
+     - https://github.com/Z-dip/Hyperskill--Java-SQL-JS-HTML-CSS--Problems/tree/main/Java/Spring
       
-  Swing :
-      https://github.com/Z-dip/Hyperskill--Java-SQL-JS-HTML-CSS--Problems/tree/main/Java/Swing
+ - Swing :
+     - https://github.com/Z-dip/Hyperskill--Java-SQL-JS-HTML-CSS--Problems/tree/main/Java/Swing
       ________________________________________________________________________________________________________________________________________    
       
 # Algorithms :
 
-  https://github.com/Z-dip/Hyperskill--Java-SQL-JS-HTML-CSS--Problems/tree/main/Algorithms
+-  https://github.com/Z-dip/Hyperskill--Java-SQL-JS-HTML-CSS--Problems/tree/main/Algorithms
       ________________________________________________________________________________________________________________________________________ 
       
 # Databases & SQL :
 
-  https://github.com/Z-dip/Hyperskill--Java-SQL-JS-HTML-CSS--Problems/tree/main/Databases%20%26%20SQL%20(Mostly%20MySQL)
+-  https://github.com/Z-dip/Hyperskill--Java-SQL-JS-HTML-CSS--Problems/tree/main/Databases%20%26%20SQL%20(Mostly%20MySQL)
       ________________________________________________________________________________________________________________________________________
       
 # Frontend :
 
-  Javascript :
-      https://github.com/Z-dip/Hyperskill--Java-SQL-JS-HTML-CSS--Problems/tree/main/Frontend/JavaScript
+ - Javascript :
+     - https://github.com/Z-dip/Hyperskill--Java-SQL-JS-HTML-CSS--Problems/tree/main/Frontend/JavaScript
   
-  HTML :
-      https://github.com/Z-dip/Hyperskill--Java-SQL-JS-HTML-CSS--Problems/tree/main/Frontend/HTML
+ - HTML :
+    -  https://github.com/Z-dip/Hyperskill--Java-SQL-JS-HTML-CSS--Problems/tree/main/Frontend/HTML
       
-  CSS :
-      https://github.com/Z-dip/Hyperskill--Java-SQL-JS-HTML-CSS--Problems/tree/main/Frontend/CSS
+ - CSS :
+    -  https://github.com/Z-dip/Hyperskill--Java-SQL-JS-HTML-CSS--Problems/tree/main/Frontend/CSS
       ________________________________________________________________________________________________________________________________________
       
 # Math :
 
-https://github.com/Z-dip/Hyperskill--Java-SQL-JS-HTML-CSS--Problems/tree/main/Math
+- https://github.com/Z-dip/Hyperskill--Java-SQL-JS-HTML-CSS--Problems/tree/main/Math
 
 ###########################################################################################################                                                                                         
