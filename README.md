@@ -77,4 +77,4 @@ Problems solved in Hyperskill (JetBrains Academy)
 
 https://github.com/Z-dip/Hyperskill--Java-SQL-JS-HTML-CSS--Problems/tree/main/Math
 
-*#######################################################################################                                                                                       
+#############################################################################################                                                                                       
