@@ -4,46 +4,46 @@
   **Basics :** 
    - https://github.com/Z-dip/Hyperskill--Java-SQL-JS-HTML-CSS--Problems/tree/main/Java/Basics
 
- - Collections :
+ **Collections :** 
      - https://github.com/Z-dip/Hyperskill--Java-SQL-JS-HTML-CSS--Problems/tree/main/Java/Collections
       
- - Design Patterns :
+ **Design Patterns :**
      - https://github.com/Z-dip/Hyperskill--Java-SQL-JS-HTML-CSS--Problems/tree/main/Java/Design%20Patterns
       
- - Functional Programming :
+ **Functional Programming :**
      - https://github.com/Z-dip/Hyperskill--Java-SQL-JS-HTML-CSS--Problems/tree/main/Java/Functional%20Programming
       
- - Generics :
+ **Generics :**
      - https://github.com/Z-dip/Hyperskill--Java-SQL-JS-HTML-CSS--Problems/tree/main/Java/Generics
       
- - IO :
+ **IO :**
      - https://github.com/Z-dip/Hyperskill--Java-SQL-JS-HTML-CSS--Problems/tree/main/Java/IO
       
- - JDBC :
+ **JDBC :**
      - https://github.com/Z-dip/Hyperskill--Java-SQL-JS-HTML-CSS--Problems/tree/main/Java/JDBC
       
- - Junit & Mockito :
+ **Junit & Mockito :**
      - https://github.com/Z-dip/Hyperskill--Java-SQL-JS-HTML-CSS--Problems/tree/main/Java/Junit%20%26%20Mockito
       
- - Logging :
+ **Logging :**
      - https://github.com/Z-dip/Hyperskill--Java-SQL-JS-HTML-CSS--Problems/tree/main/Java/Logging
       
- - OOP :
+ **OOP :**
      - https://github.com/Z-dip/Hyperskill--Java-SQL-JS-HTML-CSS--Problems/tree/main/Java/OOP
       
- - RegeX :
+ **RegeX :**
      - https://github.com/Z-dip/Hyperskill--Java-SQL-JS-HTML-CSS--Problems/tree/main/Java/RegeX
       
- - Scala :
+ **Scala :**
      - https://github.com/Z-dip/Hyperskill--Java-SQL-JS-HTML-CSS--Problems/tree/main/Java/Scala
       
- - Sockets :
+ **Sockets :**
      - https://github.com/Z-dip/Hyperskill--Java-SQL-JS-HTML-CSS--Problems/tree/main/Java/Sockets
       
- - Spring :
+ **Spring :**
      - https://github.com/Z-dip/Hyperskill--Java-SQL-JS-HTML-CSS--Problems/tree/main/Java/Spring
       
- - Swing :
+ **Swing :**
      - https://github.com/Z-dip/Hyperskill--Java-SQL-JS-HTML-CSS--Problems/tree/main/Java/Swing
      
      
@@ -64,13 +64,13 @@
       
 ![Header](https://img.icons8.com/plasticine/2x/html.png "Header")
       
- - Javascript :
+ **Javascript :**
      - https://github.com/Z-dip/Hyperskill--Java-SQL-JS-HTML-CSS--Problems/tree/main/Frontend/JavaScript
   
- - HTML :
+ **HTML :**
     -  https://github.com/Z-dip/Hyperskill--Java-SQL-JS-HTML-CSS--Problems/tree/main/Frontend/HTML
       
- - CSS :
+ **CSS :**
     -  https://github.com/Z-dip/Hyperskill--Java-SQL-JS-HTML-CSS--Problems/tree/main/Frontend/CSS
     
     
