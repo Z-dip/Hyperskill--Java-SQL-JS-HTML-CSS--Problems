@@ -1,7 +1,5 @@
 ![Header](https://robodk.com/blog/wp-content/uploads/2018/05/Programming-Language-PNG-Download-Image.png "Header")
-# Hyperskill Java/SQL/JavaScript/HTML/CSS *Problems*
-# Java  :
-
+![Header](https://freepngimg.com/download/java/1-2-java-free-png-image.png "Header")
 
  - Basics :
      - https://github.com/Z-dip/Hyperskill--Java-SQL-JS-HTML-CSS--Problems/tree/main/Java/Basics
