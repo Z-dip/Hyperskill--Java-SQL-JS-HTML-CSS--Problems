@@ -5,22 +5,22 @@ public class Main {
         Scanner scanner = new Scanner(System.in);
         String place = scanner.nextLine();
         switch (place) {
-            case "gryffindor": {
+            case "gryffindor": 
                 System.out.println("bravery");
                 break;
-            }
-            case "hufflepuff": {
+            
+            case "hufflepuff": 
                 System.out.println("loyalty");
                 break;
-            }
-            case "slytherin": {
+            
+            case "slytherin": 
                 System.out.println("cunning");
                 break;
-            }
-            case "ravenclaw": {
+            
+            case "ravenclaw":
                 System.out.println("intellect");
                 break;
-            }
+            
             default:
                 System.out.println("not a valid house");
         }
