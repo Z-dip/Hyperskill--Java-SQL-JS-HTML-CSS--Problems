@@ -1,4 +1,5 @@
 import java.util.Scanner;
+// write your code here
 
 public class Main {
 
@@ -10,7 +11,6 @@ public class Main {
             return y * y;
         } else {
             return a * pow(a, n - 1);
-        // write your code here
         }
     }
 
