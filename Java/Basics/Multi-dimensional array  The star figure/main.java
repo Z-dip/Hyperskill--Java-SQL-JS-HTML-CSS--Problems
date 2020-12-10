@@ -1,4 +1,4 @@
-import java.util.*;   //OUTPUTS STAR ON SCREEN 
+import java.util.*;   
 class Main {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
