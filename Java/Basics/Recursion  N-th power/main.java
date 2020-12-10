@@ -7,7 +7,7 @@ public class Main {
         if (n == 0) {
             return 1;
         } else if (n % 2 == 0) {
-            double y = pow(a, (n / 2));
+            double y = pow(a, n / 2);
             return y * y;
         } else {
             return a * pow(a, n - 1);
