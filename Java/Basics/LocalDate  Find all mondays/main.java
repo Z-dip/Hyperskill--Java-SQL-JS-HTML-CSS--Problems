@@ -8,7 +8,7 @@ class Main {
         String move = scanner.next();
         int moveInt = Integer.parseInt(move);
 
-        if (moveInt >= 9) {
+        if (moveInt <= 9) {
         
             move = "0" + move;
         }
