@@ -1,4 +1,4 @@
-******SINCE THIS PROBLEM NO LONGER EXSISTS ON HYPERSKILLS, I INCLUDED IT HERE******
+******SINCE THIS PROBLEM NO LONGER EXSISTS ON HYPERSKILLS, I INCLUDED IT HERE (THERE ARE SPACES IN SAMPLE INPUTS, JUST README PUT IT TOGETHER)******
 
 Remove extra spaces
 Write a program that reads a text and removes all extra spaces. The program must replace all repeating spaces and tabulations between words with a single space character (' ') and remove spaces and tabulations in the beginning and in the end of the text.
