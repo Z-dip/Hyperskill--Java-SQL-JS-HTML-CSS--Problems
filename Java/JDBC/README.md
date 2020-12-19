@@ -5,4 +5,5 @@
  -----------------------------------------------------------------------------------------------------------------------------
 
 - NO PROGRAMS TO SHOW, DEEP IN-HYPERSKILL QUESTION SOLVING ONLY
+- JDBC CONNECTION QUESTION POSTED ONLY
 
