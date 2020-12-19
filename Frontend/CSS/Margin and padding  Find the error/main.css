@@ -1,0 +1,7 @@
+p {
+    padding: 30%;
+    width: 200px;
+    border-style: solid;
+    border-width: thin;
+    border-color: #000;
+}
