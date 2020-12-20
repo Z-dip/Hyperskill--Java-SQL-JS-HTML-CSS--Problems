@@ -1,0 +1,23 @@
+div {
+    padding: 30px;
+    border-radius: 20px; 
+    /* Write your code below this line */
+    background-color: #FAEBD7;
+    
+    
+    /* Write your code above this line */
+}
+
+body {
+    margin: 100px;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+ 
+h1 {
+    text-align:center;
+}
+
+img {
+    margin-left: 25%;
+}
