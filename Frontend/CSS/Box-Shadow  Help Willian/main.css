@@ -1,0 +1,8 @@
+ .first-element {
+    background-color: rgb(215, 224, 231);
+    /* Only change code below this line*/
+    width: 200px;
+    height: 100px;
+    box-shadow: -5px -5px blue;
+    /* Only change code above this line*/
+}
