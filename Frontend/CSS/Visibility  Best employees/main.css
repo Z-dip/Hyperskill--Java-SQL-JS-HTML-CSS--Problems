@@ -1,0 +1,8 @@
+table, caption, th, td {
+  border: 1px solid black;
+  width: 300px;
+}
+/* Write the code below this line */
+caption, td {
+  visibility: hidden;
+}
