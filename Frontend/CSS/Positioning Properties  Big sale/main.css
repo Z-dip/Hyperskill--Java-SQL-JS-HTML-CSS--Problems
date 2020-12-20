@@ -1,0 +1,12 @@
+ /* write your code here */
+h1 { 
+    background-color: pink;
+}
+
+p {
+    font-size: 25px;
+    background-color: red;
+    left: 130px;
+    position: relative;
+    top: -12%;
+    }
