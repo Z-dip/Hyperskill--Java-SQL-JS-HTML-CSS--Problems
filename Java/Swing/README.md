@@ -5,4 +5,4 @@
 
 -----------------------------------------------------------------------------------------------------------------------------
 
-- NO PROGRAMS TO SHOW, DEEP IN-HYPERSKILL QUESTION SOLVING ONLY
+- NO PROGRAMS TO SHOW, DEEP IN-HYPERSKILL QUESTION SOLVING ONLY + BASICS
