@@ -1,0 +1,10 @@
+.block1{
+    background-image: url('https://clck.ru/RCdPe');
+    width: 1000px;
+    height: 500px;
+    
+    /* Write your code here */
+    background-size: 50%;
+    background-repeat: repeat-x;
+    
+}
