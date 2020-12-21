@@ -1,11 +1,11 @@
 .profile{
     
-    flex-flow: wrap column;
+   
     flex-direction: column-reverse;
 }
 
 .last-orders{
-  flex-wrap: wrap-reverse;
+  
   flex-direction: row-reverse;
 }
 
