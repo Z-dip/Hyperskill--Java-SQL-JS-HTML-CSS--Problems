@@ -47,9 +47,7 @@
      
 ![Header](https://lh5.googleusercontent.com/proxy/Rmxs41q9avCdTEFrUoghHYvxAt-ny3WtVCrlLaowSo5AFDs7BUfmG-9I36FFJRj7iq-ZpODyyoG_CkCuOCEvp4ey6WHojtxiCwkAz-ocU3ELszni4uSB4Q=s0-d "Header")    
       
-
-![Header](https://lh5.googleusercontent.com/proxy/Rmxs41q9avCdTEFrUoghHYvxAt-ny3WtVCrlLaowSo5AFDs7BUfmG-9I36FFJRj7iq-ZpODyyoG_CkCuOCEvp4ey6WHojtxiCwkAz-ocU3ELszni4uSB4Q=s0-d "Header")
-      
+     
 ![Header](https://pbs.twimg.com/profile_images/1255113654049128448/J5Yt92WW_400x400.png "Header")      
 
 -  https://github.com/Z-dip/Hyperskill--Java-SQL-JS-HTML-CSS--Problems/tree/main/Databases%20%26%20SQL%20(Mostly%20MySQL)
